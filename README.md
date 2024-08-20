@@ -2,26 +2,21 @@
 
 ## Overview
 
-This repository contains the solutions to the weekly Python programming challenges assigned during my Data Science internship at Sabudh Foundation. The internship started in July 2024.
+This repository contains the solutions to the weekly programming challenges assigned during my Data Science internship at Sabudh Foundation. The internship started in July 2024.
 
 ## Structure
 
-The repository is organized into folders for each week under the `python-coding-challenge` directory. Each folder contains the solutions to the respective week's challenges.
+The repository is organized into folders for each week under the `datascience-coding-challenge` and `python-module-coursework` directory. Each folder contains the solutions to the respective week's challenges.
 
 ### Folder and File Descriptions
 
-- **`python-coding-challenge/`**: Contains the coding challenges for the internship.
+- **`datascience-coding-challenge/`**: Contains the coding challenges for the internship.
   - **`week-1/`**: The folder for the first week's coding challenges.
-    - **`problem_1.py`**: Solution to the first problem.
-    - **`problem_2.py`**: Solution to the second problem.
-    - **`problem_3.py`**: Solution to the third problem.
-    - **`problem_4.py`**: Solution to the fourth problem.
-    - **`problem_5.py`**: Solution to the fifth problem.
-    - **`problem_6.py`**: Solution to the sixth problem.
-    - **`problem_7.py`**: Solution to the seventh problem.
-    - **`problem_8.py`**: Solution to the eighth problem.
-    - **`problem_9.py`**: Solution to the ninth problem.
-    - **`problem_10.py`**: Solution to the tenth problem.
+  - **`week-2/`**: The folder for the second week's coding challenges.
+- **`python-module-coursework/`**: Contains the python module coursework Jupyter notebooks for the internship.
+  - **`Python-Module-Coursework-06-08-2024.ipynb`**: Notebook for the python assignments on 06-08-2024.
+  - **`Python-Module-Coursework-13-08-2024.ipynb`**: Notebook for the python assignments on 13-08-2024.
+    
 
 ## Usage
 
@@ -29,9 +24,10 @@ To run any of the solutions, navigate to the corresponding week's folder and exe
 
 For example, to run the first problem of week 1:
 ```sh
-cd python-coding-challenge/week-1
+cd datascience-coding-challenge/week-1
 python problem_1.py
 ```
+
 
 ## License
 
