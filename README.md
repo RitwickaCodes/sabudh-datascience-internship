@@ -20,6 +20,7 @@ The repository is organized into folders for each week under the `datascience-co
 
 ## Usage
 
+### Running Python Scripts
 To run any of the solutions, navigate to the corresponding week's folder and execute the Python file using the command line or any Python IDE.
 
 For example, to run the first problem of week 1:
@@ -27,6 +28,22 @@ For example, to run the first problem of week 1:
 cd datascience-coding-challenge/week-1
 python problem_1.py
 ```
+### Running Jupyter Notebooks
+To run any Jupyter Notebook in the repository, follow these steps:
+
+1. Clone the repository:
+  ```sh
+  git clone https://github.com/your-username/sabudh-datascience-internship.git
+  ```
+2. Navigate to the folder containing the notebook:
+   ```sh
+   cd sabudh-datascience-internship/python-module-coursework
+   ```
+3. Launch Jupyter Notebook:
+   ```sh
+   jupyter notebook
+   ```
+4. In the Jupyter interface, open the desired `.ipynb` file and run the cells using `Shift + Enter`.
 
 
 ## License
